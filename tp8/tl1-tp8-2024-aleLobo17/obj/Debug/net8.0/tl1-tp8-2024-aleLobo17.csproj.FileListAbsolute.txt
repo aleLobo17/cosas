@@ -1,0 +1,14 @@
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\bin\Debug\net8.0\tl1-tp8-2024-aleLobo17.exe
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\bin\Debug\net8.0\tl1-tp8-2024-aleLobo17.deps.json
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\bin\Debug\net8.0\tl1-tp8-2024-aleLobo17.runtimeconfig.json
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\bin\Debug\net8.0\tl1-tp8-2024-aleLobo17.dll
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\bin\Debug\net8.0\tl1-tp8-2024-aleLobo17.pdb
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\tl1-tp8-2024-aleLobo17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\tl1-tp8-2024-aleLobo17.AssemblyInfoInputs.cache
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\tl1-tp8-2024-aleLobo17.AssemblyInfo.cs
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\tl1-tp8-2024-aleLobo17.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\tl1-tp8-2024-aleLobo17.dll
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\refint\tl1-tp8-2024-aleLobo17.dll
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\tl1-tp8-2024-aleLobo17.pdb
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\tl1-tp8-2024-aleLobo17.genruntimeconfig.cache
+C:\Users\Alumno\tp8\tl1-tp8-2024-aleLobo17\obj\Debug\net8.0\ref\tl1-tp8-2024-aleLobo17.dll
